@@ -3,10 +3,7 @@ import Password from "./comenents/Password";
 function App() {
   return (
     <div>
-      <h1>
-        My generator
-      </h1>
-      <Password h2="hello" />
+      <Password h1="My password generator" />
     </div>
   );
 }
