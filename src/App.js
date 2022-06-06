@@ -1,4 +1,4 @@
-import Password from "./comenents/Password";
+import Password from "./components/Password";
 
 function App() {
   return (
